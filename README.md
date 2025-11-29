@@ -23,6 +23,7 @@
         - Mob prevention (e.g. 10 of them can't gang up on you at once). 
         - Able to pick spawn points of enemies (possibly within the bounds of generation)
         - Melee and ranged types (eventually) damage movement speed/attack speed needs to be balances
+        - Animation controller
 
 - Terrrain Generation
     - Surface exists, nothing to do there (for now). Barren sand storm in the distance so theres not much to see or do. Hole in the ground invites you down. 
