@@ -1,7 +1,7 @@
 # Gameplan
 
 ## Theme 
-### Title(WIP): Temu Deep rock galactic 
+### Project Excavator
 
 
 # Gameplay loop
