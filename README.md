@@ -14,7 +14,7 @@
 6. Repeat
 
 
-# Phase 1
+# Phase 1 - Ready for testing
 
 - Enemies
     - Pathfinding for enemies. 
@@ -39,13 +39,21 @@
     - 3rd or first person. ADS For ranged, F or right click for block on melee
     - OPENENDED FOR NOW
 
-- 
+- Mining mechanic
+    - (for NOW) click, click, stuff. Like tradelands 
+
+- Datastore 
+    - Your ship is custom. everything pertaining to that needs to be saved
+    - Your character has a plethora of data. Maybe currency, definitely inventory.
+    - Ship has a shared inventory which must save
 
 
-# Phase 2
+# Phase 2 - Ready for beta
 - Loot Table
     - Different loot tables for drops/crates around the map and mining with mining being higher tier loot drops
 
+- Building system
+    - Prefab structures with a customizable interior
 
 - Crafting system 
     - UI for the crafting system. 
@@ -54,3 +62,9 @@
     - Batteries fuel this. 
     - Batteries should be rarer than parts to craft one. 
     - At the start 
+
+
+- Research tree for progression 
+    - Takes different resources from your ship to craft items. 
+
+- Maximum Inventory space
